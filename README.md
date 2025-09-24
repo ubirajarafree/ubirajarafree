@@ -28,7 +28,7 @@ Sou desenvolvedor fullstack com paixão por design, tecnologia e experiências d
 - [🧵 Tecelagem Charlotte](https://tecelagem-charlotte.vercel.app) – Sistema para empresas de tecidos e estampas (MVP entregue e adaptável)
 - [🚗 TinderDriver](https://tinderdriver-wendel.vercel.app) – App de conexão entre motoristas com paixão por carros de alto padrão
 - 📱 App Flutter – Aplicativo mobile com interface intuitiva e foco em usabilidade
-- ⚙️ Next.js App – Web apps modernos com integração via Hypergraph ou Supabase
+- ⚙️ Next.js App – Web apps modernos com integração via Hygraph CMS ou Supabase API
 - 🎓 Extensão Universitária – Sistema em PHP que simula uma versão alternativa e básica do X (antigo Twitter)
 - 🧠 [Portfólio no GitHub](https://github.com/ubirajarafree) – Repositório de experiências, códigos e experimentações
 
