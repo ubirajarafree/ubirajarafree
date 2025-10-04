@@ -1,36 +1,42 @@
-# 👋 Olá! Eu sou Ubirajara Alves
+# 👋 Ubirajara Alves (Senhor da Lança)
 
-Sou desenvolvedor fullstack com paixão por design, tecnologia e experiências digitais. Crio soluções que misturam estética e funcionalidade — de apps mobile a sistemas web com impacto real.
+Sou designer e desenvolvedor web fullstack e fullesterco do Goiás, com paixão por tecnologia e experiências digitais. Crio soluções que misturam estética e funcionalidade — de apps mobile a sistemas e aplicações com impacto real e responsivo.
 
 ---
 
 ## 🚀 Tecnologias & Ferramentas
 
-- **Front-end**: HTML, CSS, JavaScript, React, Next.js
-- **Mobile**: Flutter, Dart
-- **Back-end**: PHP, Node.js
-- **Design**: Figma, Photoshop, Gimp, Illustrator, Inkscape, Canva
+- **Front-end**: HTML, CSS, JavaScript, Next, React, Shadcn, Tailwind, GSAP
+- **Backend**: Nest, Django, Hygraph e Supabase
+- **Mobile**: Flutter, Android e IOS
+- **Design**: Figma, Inkscape, Canva
+- **AI Tools**: Lovable, Bolt, Base44
 - **Outros**: Git, GitHub Pages, VSCode, N8N, Ollama
+- **Adicionais**: Scrum, Sprints, Deadlines e Deploy na Sexta
 
 ---
 
 ## 🤖 Automações & IA
 
 - **n8n** – Criação de fluxos automatizados para integração entre sistemas
-- **WhatsApp** – Bots e notificações automatizadas via API e IAs
+- **WhatsApp** – Agentes IA e notificações automatizadas via APIs
 - **RAG privado** – Recuperação aumentada por geração com dados locais e segurança
 
 ---
 
 ## 💼 Projetos em destaque
 
-- [🌿 Sloanecarson](https://sloanecarson.com) – Funil de vendas para afiliados no mercado internacional (em dólar 💵)
-- [🧵 Tecelagem Charlotte](https://tecelagem-charlotte.vercel.app) – Sistema para empresas de tecidos e estampas (MVP entregue e adaptável)
+- [🌿 Sloanecarson](https://sloanecarson.com) – Estúdio de design, desenvolvimento web, mobile e agentes IA
+- [🌿 Sloanecarson/primebiome](https://sloanecarson.com/primebiome) – Funil de vendas para afiliados no mercado internacional (em dólar 💵)
+- [🧵 Tecelagem Charlotte](https://tecelagem-charlotte.vercel.app) – Sistema para empresa de tecidos e estampas (MVP entregue e adaptável)
 - [🚗 TinderDriver](https://tinderdriver-wendel.vercel.app) – App de conexão entre motoristas com paixão por carros de alto padrão
-- 📱 App Flutter – Aplicativo mobile com interface intuitiva e foco em usabilidade
-- ⚙️ Next.js App – Web apps modernos com integração via Hygraph CMS ou Supabase API
-- 🎓 Extensão Universitária – Sistema em PHP que simula uma versão alternativa e básica do X (antigo Twitter)
-- 🧠 [Portfólio no GitHub](https://github.com/ubirajarafree) – Repositório de experiências, códigos e experimentações
+
+## Repositórios em destaque
+
+- 📱 App Flutter SAMUx – Aplicativo mobile com interface intuitiva e foco em usabilidade feito para o SAMU-GO ampliar o atendimento 
+- ⚙️ App Next, React e Typescript - projetos modernos com integração backend Hygraph CMS e Supabase
+- 🎓 Extensão Universitária – Sistema em PHP e arquitetura MVC que simula uma versão alternativa e básica do X (antigo Twitter)
+- 🧠 Manual de Automação n8n para construção de workflows com Agentes IA
 
 ---
 
@@ -45,10 +51,10 @@ Sou desenvolvedor fullstack com paixão por design, tecnologia e experiências d
 
 ## 📫 Fale comigo
 
-- 📧 Email: ubirajara.free@gmail.com  
-- 📱 Telefone: +55 62 99425 3473  
-- 🔗 LinkedIn: *em breve*
+- 📧 Email: ubirajara.free@gmail.com
+- 📱 Telefone/Whatsapp: +55 62 99425 3473 (Leio todas as mensagens, mas nem sempre respondo. O azul é garantido) 
+- 🔗 LinkedIn: Em breve. Melhorando as credenciais
 
 ---
 
-> ✨ *“Criar é conectar ideias com propósito.”*  
+> ✨ *“Criar é conectar ideias com propósito.”* 
