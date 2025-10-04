@@ -31,7 +31,9 @@ Sou designer e desenvolvedor web fullstack e fullesterco do Goiás, com paixão 
 - [🧵 Tecelagem Charlotte](https://tecelagem-charlotte.vercel.app) – Sistema para empresa de tecidos e estampas (MVP entregue e adaptável)
 - [🚗 TinderDriver](https://tinderdriver-wendel.vercel.app) – App de conexão entre motoristas com paixão por carros de alto padrão
 
-## Repositórios em destaque
+---
+
+## ✨ Repositórios em destaque
 
 - 📱 App Flutter SAMUx – Aplicativo mobile com interface intuitiva e foco em usabilidade feito para o SAMU-GO ampliar o atendimento 
 - ⚙️ App Next, React e Typescript - projetos modernos com integração backend Hygraph CMS e Supabase
