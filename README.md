@@ -51,11 +51,12 @@ Sou designer e desenvolvedor web fullstack e fullesterco do Goiás, com paixão 
 
 ---
 
-## 📫 Fale comigo
+## 📫 Fale/Encontre comigo
 
 - 📧 Email: ubirajara.free@gmail.com
-- 📱 Telefone/Whatsapp: +55 62 99425 3473 (Leio todas as mensagens, mas nem sempre respondo. O azul é garantido) 
+- 📱 Telefone/Whatsapp: +55 62 99425 3473 (Leio todas as mensagens. O azul é garantido) 
 - 🔗 LinkedIn: Em breve. Melhorando as credenciais
+- 🚀 Playground: Diversão e arte em casa
 
 ---
 
